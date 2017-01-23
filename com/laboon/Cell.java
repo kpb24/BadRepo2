@@ -74,7 +74,6 @@ public class Cell {
 			toReturn = '_';
 =======
 			toReturn = ' ';
->>>>>>> wjl_display
 		}
 		return toReturn;
 	}

@@ -124,7 +124,6 @@ public class World {
 		String toReturn = "> ";
 =======
 		String toReturn = "* ";
->>>>>>> wjl_display
 		for (int j= 0; j < _size; j++) {
 			toReturn += String.valueOf(j % 10);
 		}
